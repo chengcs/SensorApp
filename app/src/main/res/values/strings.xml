@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="display_magnetic_field">N/A</string>
+</resources>
